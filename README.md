@@ -1,6 +1,6 @@
-## Scrimba - API Challenge
+# Scrimba - API Challenge
 
-# Learning:
+## Learning:
 - CSS Grid</br>
 - CSS FlexBox</br>
 - Fetch</br>
