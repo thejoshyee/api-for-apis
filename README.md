@@ -8,6 +8,9 @@ This mini challenge was for Scrimba's Front End Developer Career Path. The targe
 - CSS FlexBox</br>
 - Fetch</br>
 
+## Preview
+<img src="https://github.com/thejoshyee/api-for-apis/blob/main/api-for-apis-preview.png" width="50%" />
+
 Quick start:
 
 ```
